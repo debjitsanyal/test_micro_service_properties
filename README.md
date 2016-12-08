@@ -1,0 +1,2 @@
+# test_micro_service_properties
+test_micro_service
